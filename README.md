@@ -1,3 +1,5 @@
+[//]: <> (Créditos: https://github.com/rafaballerini)
+
 ## Olá, sou Alisson Pina!
 Cientista de Dados, Engenheiro de Machine Learning e Especialista em Visão Computacional
 <br>
